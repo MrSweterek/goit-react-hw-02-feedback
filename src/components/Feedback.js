@@ -1,3 +1,5 @@
+
+const labels = ['Good', 'Neutral', 'Bad'];
 class FeedbackStats extends Comment {
   state = {
     good: 0,
