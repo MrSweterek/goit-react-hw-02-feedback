@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import FeedbackOptions from './FeedbackOptions';
 import Section from './Section';
 import Statistics from './Statistics';
-import Notification from './Notofication';
+import Notification from './Notifications';
 import styled from '@emotion/styled';
 
 const labels = ['Good', 'Neutral', 'Bad'];
