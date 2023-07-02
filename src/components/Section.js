@@ -7,6 +7,7 @@ function Section({ title }) {
     </div>
   );
 }
+
 Section.propTypes = {
   title: PropTypes.string,
 };
